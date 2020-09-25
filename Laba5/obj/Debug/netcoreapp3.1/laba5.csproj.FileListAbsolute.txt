@@ -1,0 +1,13 @@
+G:\VS_Project\C#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.exe
+G:\VS_Project\C#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.deps.json
+G:\VS_Project\C#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.json
+G:\VS_Project\C#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.dev.json
+G:\VS_Project\C#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.dll
+G:\VS_Project\C#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.pdb
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csprojAssemblyReference.cache
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfoInputs.cache
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfo.cs
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csproj.CoreCompileInputs.cache
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.dll
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.pdb
+G:\VS_Project\C#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.genruntimeconfig.cache
