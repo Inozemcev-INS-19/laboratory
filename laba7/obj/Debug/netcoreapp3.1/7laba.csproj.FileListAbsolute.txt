@@ -1,0 +1,13 @@
+G:\Project\VS_Project\C#\7laba\7laba\bin\Debug\netcoreapp3.1\7laba.exe
+G:\Project\VS_Project\C#\7laba\7laba\bin\Debug\netcoreapp3.1\7laba.deps.json
+G:\Project\VS_Project\C#\7laba\7laba\bin\Debug\netcoreapp3.1\7laba.runtimeconfig.json
+G:\Project\VS_Project\C#\7laba\7laba\bin\Debug\netcoreapp3.1\7laba.runtimeconfig.dev.json
+G:\Project\VS_Project\C#\7laba\7laba\bin\Debug\netcoreapp3.1\7laba.dll
+G:\Project\VS_Project\C#\7laba\7laba\bin\Debug\netcoreapp3.1\7laba.pdb
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.csprojAssemblyReference.cache
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.AssemblyInfoInputs.cache
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.AssemblyInfo.cs
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.csproj.CoreCompileInputs.cache
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.dll
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.pdb
+G:\Project\VS_Project\C#\7laba\7laba\obj\Debug\netcoreapp3.1\7laba.genruntimeconfig.cache
