@@ -1,0 +1,7 @@
+G:\Project\C#\laba10\laba10\bin\Debug\laba10.exe.config
+G:\Project\C#\laba10\laba10\bin\Debug\laba10.exe
+G:\Project\C#\laba10\laba10\bin\Debug\laba10.pdb
+G:\Project\C#\laba10\laba10\obj\Debug\laba10.csprojAssemblyReference.cache
+G:\Project\C#\laba10\laba10\obj\Debug\laba10.csproj.CoreCompileInputs.cache
+G:\Project\C#\laba10\laba10\obj\Debug\laba10.exe
+G:\Project\C#\laba10\laba10\obj\Debug\laba10.pdb
