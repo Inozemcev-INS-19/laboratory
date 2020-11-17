@@ -126,8 +126,5 @@ namespace laba10
         }
 
 
-        public void otvet(ref float sum) {    
-            Console.WriteLine(sum);
-        }
     }
 }
