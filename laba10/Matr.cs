@@ -14,8 +14,9 @@ namespace laba10
         //Генерация
         public void Generator(int N, int M)
         {
-            n = N;
             m = M;
+            n = N;
+            
             Random ran = new Random(DateTime.Now.Millisecond);
 
             mas = new float[N, M];
