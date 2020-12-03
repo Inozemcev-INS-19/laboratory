@@ -1,0 +1,26 @@
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.csprojAssemblyReference.cache
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfoInputs.cache
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfo.cs
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.csproj.CoreCompileInputs.cache
+G:\Project\VS_Project\C#\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.exe
+G:\Project\VS_Project\C#\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.deps.json
+G:\Project\VS_Project\C#\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.json
+G:\Project\VS_Project\C#\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.dev.json
+G:\Project\VS_Project\C#\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.dll
+G:\Project\VS_Project\C#\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.pdb
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.dll
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.pdb
+G:\Project\VS_Project\C#\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.genruntimeconfig.cache
+G:\Project\VS_Project\C#\9 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.exe
+G:\Project\VS_Project\C#\9 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.deps.json
+G:\Project\VS_Project\C#\9 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.json
+G:\Project\VS_Project\C#\9 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.dev.json
+G:\Project\VS_Project\C#\9 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.dll
+G:\Project\VS_Project\C#\9 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.pdb
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfoInputs.cache
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfo.cs
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.csproj.CoreCompileInputs.cache
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.dll
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.pdb
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.genruntimeconfig.cache
+G:\Project\VS_Project\C#\9 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.csprojAssemblyReference.cache
