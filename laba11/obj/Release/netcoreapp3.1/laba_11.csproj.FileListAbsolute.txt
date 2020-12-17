@@ -1,0 +1,13 @@
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Release\netcoreapp3.1\laba_11.exe
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Release\netcoreapp3.1\laba_11.deps.json
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Release\netcoreapp3.1\laba_11.runtimeconfig.json
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Release\netcoreapp3.1\laba_11.runtimeconfig.dev.json
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Release\netcoreapp3.1\laba_11.dll
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Release\netcoreapp3.1\laba_11.pdb
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.AssemblyInfo.cs
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.dll
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.pdb
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Release\netcoreapp3.1\laba_11.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d60OSiJoKBdibyd7nBf0Q1K7q/K9eggBO56Y66mvizVrVw6fgurTbb0sSUPa2vDuN582q1m6TWZCQhjIuHJddA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasha\\Desktop\\Новая папка (4)\\laba_11\\laba_11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

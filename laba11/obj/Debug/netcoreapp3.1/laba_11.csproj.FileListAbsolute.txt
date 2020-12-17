@@ -1,0 +1,26 @@
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.csprojAssemblyReference.cache
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.AssemblyInfoInputs.cache
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.AssemblyInfo.cs
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.csproj.CoreCompileInputs.cache
+G:\Project\C#\laba_11\laba_11\bin\Debug\netcoreapp3.1\laba_11.exe
+G:\Project\C#\laba_11\laba_11\bin\Debug\netcoreapp3.1\laba_11.deps.json
+G:\Project\C#\laba_11\laba_11\bin\Debug\netcoreapp3.1\laba_11.runtimeconfig.json
+G:\Project\C#\laba_11\laba_11\bin\Debug\netcoreapp3.1\laba_11.runtimeconfig.dev.json
+G:\Project\C#\laba_11\laba_11\bin\Debug\netcoreapp3.1\laba_11.dll
+G:\Project\C#\laba_11\laba_11\bin\Debug\netcoreapp3.1\laba_11.pdb
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.dll
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.pdb
+G:\Project\C#\laba_11\laba_11\obj\Debug\netcoreapp3.1\laba_11.genruntimeconfig.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Debug\netcoreapp3.1\laba_11.exe
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Debug\netcoreapp3.1\laba_11.deps.json
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Debug\netcoreapp3.1\laba_11.runtimeconfig.json
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Debug\netcoreapp3.1\laba_11.runtimeconfig.dev.json
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Debug\netcoreapp3.1\laba_11.dll
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\bin\Debug\netcoreapp3.1\laba_11.pdb
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.AssemblyInfo.cs
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.dll
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.pdb
+C:\Users\sasha\Desktop\Новая папка (4)\laba_11\obj\Debug\netcoreapp3.1\laba_11.genruntimeconfig.cache
