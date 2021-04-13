@@ -1,0 +1,10 @@
+G:\Project\SemestrFour\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+G:\Project\SemestrFour\Laba_2\Laba_2\bin\Debug\Laba_2.exe
+G:\Project\SemestrFour\Laba_2\Laba_2\bin\Debug\Laba_2.pdb
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.csprojAssemblyReference.cache
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.Form1.resources
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.Properties.Resources.resources
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.GenerateResource.cache
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.exe
+G:\Project\SemestrFour\Laba_2\Laba_2\obj\Debug\Laba_2.pdb
